@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "ejemplo",
+    "description": "Descripción",
+    "code": "123",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "Categoría",
+    "thumbnails": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "ejemplo2",
+    "description": "Descripción2",
+    "code": "456",
+    "price": 90,
+    "status": true,
+    "stock": 50,
+    "category": "Categoría2",
+    "thumbnails": [
+      "url3",
+      "url4"
+    ]
+  }
+]
